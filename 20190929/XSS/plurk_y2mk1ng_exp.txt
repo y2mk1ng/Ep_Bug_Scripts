@@ -1,0 +1,10 @@
+0x00
+https://www.plurk.com/y2mk1ng/?cookie=UserProfile=UID=d******************Rfw==&ACCESS=18gGiq32llt5kHbJU5/HIA==
+宇文鉑鈺
+https://www.plurk.com/y2mk1ng/?cookie=UserProfile=UID=S******************eDA==&ACCESS=18gGiq32llt5kHbJU5/HIA==
+
+環境：
+Firefox browser, 已登入 @y2mk1ng Plurk 帳號
+
+腳本：
+20190929.html（內嵌 JavaScript）
